@@ -1,0 +1,23 @@
+body{
+	background: url('../img/rojo.jpg');
+/*	para que no se acaba e la imagen si hacemos un scroll*/
+	background-attachment: fixed;
+}
+#logo{
+	
+	background: #CA3413;
+	
+}
+#menu ul li:hover{
+	background: #CA3413;
+}
+.button-more{
+	
+	background: #CA3413;
+	
+
+}
+.ui-accordion .ui-accordion-header{
+	background: #CA3413;
+	color: #fff;
+}

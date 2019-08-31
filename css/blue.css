@@ -1,0 +1,24 @@
+body{
+	background: url('../img/cielo.jpg');
+/*	para que no se acaba e la imagen si hacemos un scroll*/
+	background-attachment: fixed;
+}
+#logo{
+	
+	background: #1F87C4;
+	
+}
+#menu ul li:hover{
+	background: #1F87C4;
+}
+.button-more{
+	
+	background: #1F87C4;
+	
+
+}
+
+.ui-accordion .ui-accordion-header{
+	background: #1F87C4;
+	color: #fff;
+}

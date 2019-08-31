@@ -1,0 +1,23 @@
+body{
+	background: url('../img/hojas.jpg');
+/*	para que no se acaba e la imagen si hacemos un scroll*/
+	background-attachment: fixed;
+}
+#logo{
+	
+	background: #235E3D;
+	
+}
+#menu ul li:hover{
+	background: #235E3D;
+}
+.button-more{
+	
+	background: #235E3D;
+	
+
+}
+.ui-accordion .ui-accordion-header{
+	background: #235E3D;
+	color: #fff;
+}
